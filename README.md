@@ -62,6 +62,6 @@ This project can be extended to include:
 https://github.com/user-attachments/assets/52ef5fe0-ab43-4eb1-ae47-005385d156d7
 
 <img width="1365" height="448" alt="change shot" src="https://github.com/user-attachments/assets/8db0d042-2308-4ae2-af52-e354aec04677" />
-<img width="1365" height="505" alt="employee table shot" src="https://github.com/user-attachments/assets/18a0c7fe-3007-42c1-be9e-c3802c35bb37" />
+
 
 
